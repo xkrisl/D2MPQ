@@ -1,4 +1,4 @@
-# D2MPQ (Diablo II: LOD) * MPQ Protection* 
+# D2MPQ (Diablo II: LOD) MPQ Protection
 This little trick is replacing some bytes in the .MPQ's and Storm.dll for the Diablo II: LOD 1.13c client.
 You can also change these offsets for a newer or older client as well.
  
